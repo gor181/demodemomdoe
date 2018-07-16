@@ -15,8 +15,28 @@ key: a64d8c793a
 
 
 `@lower_third`
+
 name: Name Surname
 title: Instructor
+
+
+
+
+
+---
+## Insert title here...
+
+```yaml
+type: FullCodeSlide
+key: 13defffe9b
+```
+
+`@part1`
+
+
+
+
+
 
 `@script`
 
@@ -35,8 +55,6 @@ key: 2bab52941a
 
 
 
-
-`@script`
 
 
 

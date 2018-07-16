@@ -24,7 +24,7 @@ key: eae86458c3
 ```
 
 
-
+I have added the assignment to the first exercise in the second chapter
 
 
 `@instructions`
